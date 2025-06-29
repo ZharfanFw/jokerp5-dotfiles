@@ -1,0 +1,10 @@
+[colors.primary]
+background = "#2D1E23"
+foreground = "#D3D3D3"
+
+[window]
+opacity = 0.9
+
+[font]
+size = 7
+normal = { family = "Fira Code"}
